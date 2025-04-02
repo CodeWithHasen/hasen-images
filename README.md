@@ -1,2 +1,7 @@
-# hasen-images
-Hasen Ali's Image Repository – A collection of images, including logos, favicons, and other assets for web development and branding purposes. Hosted for easy integration with various projects.
+# Hasen Ali's Image Repository
+
+This repository contains various images, logos, and favicons used for my web development projects.  
+Images are hosted here for easy access and integration into my websites.
+
+## Usage
+To use an image from this repository, copy its URL and embed it in your project.
